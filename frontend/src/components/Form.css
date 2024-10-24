@@ -1,0 +1,43 @@
+h2{
+    text-decoration-line: underline;
+    padding-bottom: 0%;
+    margin-bottom: 1%;
+   
+    
+}
+.form{
+    background-color: rgb(206, 164, 166);
+    display:flexbox;
+    width: 500px;
+    text-align: center;
+    margin-left: 520px;
+  border-radius: 10px;  
+ padding-bottom: 70px;
+ padding-top: 50px;
+  border-style: solid;
+   
+}
+label{
+    line-height: 50px;
+    font-size: large;
+    font-weight: 500;
+}
+input{
+    margin-left: 20px;
+}
+.age{
+    margin-left: 30px;
+}
+.view{
+    margin-left: 50px;
+}
+.sub{
+    margin-left: 60px;
+}
+button{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(20, 102, 209);
+    color: white;
+}
+
